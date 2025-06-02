@@ -14,8 +14,8 @@ A lightweight terminal-based TriggerBot with color detection.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/void-triggerbot.git
-cd void-triggerbot
+git clone https://github.com/machmud1/void.git
+cd void
 ```
 
 2. Install required dependencies:
